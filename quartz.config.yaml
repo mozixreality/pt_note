@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Mozix
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,20 +16,20 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Noto Serif TC
+      body: Noto Sans TC
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
+        light: "#fdfdfc"
+        lightgray: "#e8e8e4"
+        gray: "#b0b0a8"
+        darkgray: "#45443f"
+        dark: "#1c1c1a"
+        secondary: "#2f4858"
         tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        highlight: "rgba(143, 159, 169, 0.10)"
+        textHighlight: "#fff3b0aa"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -41,6 +41,14 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source:
+      name: quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugin
+    enabled: true
+    options:
+      theme: "obsidian-nord-enhanced"
+      mode: both
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
