@@ -1,7 +1,14 @@
-# Pandora
-
-- 練習日期:   2026/05/15
-- 考點:       snmp、ssh tunnel、CVE-2020-13851、CVE-2021-32099、相對路徑劫取
+---
+title: Pandora
+description: 
+tags:
+  - snmp
+  - ssh tunnel
+  - CVE-2020-13851
+  - CVE-2021-32099
+  - 相對路徑劫取
+date: 2026-05-15
+---
 
 ## snmp
 

@@ -1,7 +1,12 @@
-# Usage
-
-- 練習日期:   2026/04/16
-- 考點:       SQLIjection、CVE-2023-24249、7za wildcard exploit
+---
+title: Usage
+description: 
+tags:
+  - SQL Injection
+  - CVE-2023-24249
+  - 7za wildcard exploit
+date: 2026-04-16
+---
 
 ## SQL Injection
 

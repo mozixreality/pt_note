@@ -1,7 +1,13 @@
-# Fluffy
-
-- 練習日期:   2026/05/14
-- 考點:       CVE-2025-24071 / CVE-2025-24054、ACL (Access Control List) 濫用、ESC16
+---
+title: Fluffy
+description: 
+tags:
+  - CVE-2025-24071
+  - CVE-2025-24054
+  - ACL
+  - ESC16
+date: 2026-05-14
+---
 
 ## CVE-2025-24071 / CVE-2025-24054
 

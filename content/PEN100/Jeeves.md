@@ -1,7 +1,13 @@
-# Jeeves
-
-- 練習日期:   2026/07/09
-- 考點:       Jenkins、KeePass、PSExec、備用資料流 (Alternate Data Streams, ADS)
+---
+title: Jeeves
+description: 
+tags:
+  - Jenkins
+  - KeePass
+  - PSExec
+  - ADS
+date: 2026-07-09
+---
 
 ## Initial Access
 

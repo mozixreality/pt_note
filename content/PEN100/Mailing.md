@@ -1,8 +1,14 @@
-# Mailing
-
-- 練習日期:   2026/05/07
-- 考點:       OSINT、AFR、smtp、CVE-2024-21413、Responder、CVE-2023-2255
-- 標籤:       社交工程
+---
+title: Mailing
+description: 
+tags:
+  - OSINT
+  - AFR
+  - smtp
+  - CVE-2024-21413
+  - Responder
+date: 2026-05-07
+---
 
 ## OSINT
 

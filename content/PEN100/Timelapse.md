@@ -1,7 +1,14 @@
-# Timelapse
-
-- 練習日期:   2026/03/19
-- 考點:       SMB、PKI 憑證處理、WINRM 憑證登入、PowerShell 歷史紀錄、LAPS
+---
+title: Timelapse
+description: 
+tags:
+  - SMB
+  - PKI 憑證處理
+  - WINRM 憑證登入
+  - PowerShell 歷史紀錄
+  - LAPS
+date: 2026-03-19
+---
 
 ## SMB
 

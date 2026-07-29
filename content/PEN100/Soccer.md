@@ -1,7 +1,14 @@
-# Soccer
-
-- 練習日期:   2026/04/23
-- 考點:      Tiny File Manager、nginx、sqlmap、doas、dstat。
+---
+title: Soccer
+description: 
+tags:
+  - Tiny File Manager
+  - nginx
+  - sqlmap
+  - doas
+  - dstat
+date: 2026-04-23
+---
 
 ## Tiny File Manager
 

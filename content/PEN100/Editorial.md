@@ -1,7 +1,12 @@
-# Linkvortex
-
-- 練習日期:   2026/03/27
-- 考點:       Server-Side Request Forgery (SSRF) 、ffuf、Git、 GitPython 函式庫的 CVE-2022-24439。
+---
+title: Editorial
+description: 
+tags:
+  - SSRF
+  - git
+  - CVE-2022-24439
+date: 2026-03-27
+---
 
 ## Server-Side Request Forgery (SSRF)
 

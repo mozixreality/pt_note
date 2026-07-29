@@ -1,7 +1,11 @@
-# Builder
-
-- 練習日期:     2026/07/08
-- 考點:         Jenkins、CVE
+---
+title: Builder
+description: 
+tags:
+  - Jenkins
+  - CVE-2024-23897
+date: 2026-07-08
+---
 
 ## CVE-2024-23897
 

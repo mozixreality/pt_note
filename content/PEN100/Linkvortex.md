@@ -1,7 +1,13 @@
-# Linkvortex
-
-- 練習日期:   2026/03/19
-- 考點:       git-dumper、CVE-2023-40028、Symlinks、TOCTOU (Time-of-Check to Time-of-Use) 條件競爭、Linux 權限與系統安全機制。
+---
+title: Linkvortex
+description: 
+tags:
+  - git-dumper
+  - CVE-2023-40028
+  - Symlinks
+  - TOCTOU
+date: 2026-03-19
+---
 
 ## git-dumper
 

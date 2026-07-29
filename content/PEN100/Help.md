@@ -1,3 +1,14 @@
+---
+title: Help
+description: 
+tags:
+  - GraphQL
+  - Blind SQLi
+  - 任意檔案上傳
+  - 老舊 Linux 核心提權
+date: 2026-04-20
+---
+
 # Help
 
 - 練習日期:   2026/04/20

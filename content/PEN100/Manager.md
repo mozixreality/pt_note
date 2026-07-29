@@ -1,1 +1,6 @@
-# Manager
+---
+title: Manager
+description: 
+tags:
+date: 
+---

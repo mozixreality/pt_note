@@ -1,7 +1,13 @@
-# ServMon
-
-- 練習日期:   2026/04/07
-- 考點:       FTP、NVMS-1000 CVE、
+---
+title: ServMon
+description: 
+tags:
+  - FTP
+  - NVMS-1000 CVE
+  - SSH Port Forwarding
+  - Windows 下載並執行檔案
+date: 2026-04-07
+---
 
 ## FTP
 

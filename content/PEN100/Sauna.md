@@ -1,7 +1,14 @@
-# Sauna
-
-- 練習日期:   2026/04/21
-- 考點:       OSINT、AS-REP Roasting、smb 不落地執行、winPEAS Local Privilege Escalation、BloodHound Lateral Movement、DCSync Attack
+---
+title: Sauna
+description: 
+tags:
+  - OSINT
+  - AS-REP Roasting
+  - smb 不落地執行
+  - winPEAS
+  - DCSync Attack
+date: 2026-04-21
+---
 
 ## OSINT
 

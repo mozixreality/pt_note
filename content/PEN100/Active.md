@@ -1,7 +1,12 @@
-# Active
-
-- 練習日期:   2026/03/17
-- 考點:       SMB 列舉、GPP (Group Policy Preferences) 密碼外洩、Kerberoasting 攻擊。
+---
+title: Active
+description: 
+tags:
+  - SMB
+  - GPP
+  - Kerberoasting
+date: 2026-03-17
+---
 
 ## SMB 列舉
 

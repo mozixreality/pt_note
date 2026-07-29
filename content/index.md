@@ -15,22 +15,22 @@ date: 2026-07-24
 ## OSCP Like PEN 100
 
 - [] HTB: TombWatcher
-- [X] HTB: Fluffy           115/05/14
+- [X] HTB: [[Fluffy]]       115/05/14
 - [] HTB: TheFrizz
 - [X] HTB: Dog              115/03/05
-- [X] HTB: Titanic          115/03/13
-- [X] HTB: Administrator    115/06/11
-- [X] HTB: LinkVortex       115/03/19
-- [X] HTB: Certified        115/07/07
+- [X] HTB: [[Titanic]]      115/03/13
+- [X] HTB: [[Administrator]]115/06/11
+- [X] HTB: [[LinkVortex]]   115/03/19
+- [X] HTB: [[Certified]]    115/07/07
 - [X] HTB: Cicada           115/02/25
-- [X] HTB: Editorial        115/03/27
+- [X] HTB: [[Editorial]]    115/03/27
 - [] HTB: BoardLight
-- [X] HTB: Mailing          115/05/07
-- [X] HTB: Usage            115/04/16
+- [X] HTB: [[Mailing]]      115/05/07
+- [X] HTB: [[Usage]]        115/04/16
 - [] HTB: Monitored
 - [] HTB: Manager
 - [X] HTB: CozyHosting      115/02/26
-- [X] HTB: Builder          115/07/08
+- [X] HTB: [[Builder]]      115/07/08
 - [X] HTB: Keeper           115/02/23
 - [X] HTB: Sau              115/02/23
 - [X] HTB: Broker           115/02/11
@@ -38,25 +38,29 @@ date: 2026-07-24
 - [] HTB: Aero
 - [X] HTB: Busqueda         115/03/04
 - [] HTB: Escape
-- [X] HTB: Soccer           115/04/23
+- [X] HTB: [[Soccer]]       115/04/23
 - [] HTB: Flight
 - [] HTB: UpDown
-- [X] HTB: [[Support]]          115/07/23
+- [X] HTB: [[Support]]      115/07/23
 - [] HTB: StreamIO
-- [X] HTB: Timelapse        115/03/19
-- [X] HTB: Pandora          115/05/15
+- [X] HTB: [[Timelapse]]    115/03/19
+- [X] HTB: [[Pandora]]      115/05/15
 - [X] HTB: Return           115/02/12
-- [X] HTB: Jeeves           115/07/09
+- [X] HTB: [[Jeeves]]       115/07/09
 - [] HTB: Intelligence
 - [] HTB: Blackfield
 - [] HTB: Magic
 - [] HTB: Cascade
-- [X] HTB: Sauna            115/04/21
-- [X] HTB: ServMon          115/04/07
+- [X] HTB: [[Sauna]]        115/04/21
+- [X] HTB: [[ServMon]]      115/04/07
 - [] HTB: Monteverde
-- [X] HTB: Forest           115/05/28
+- [X] HTB: [[Forest]]       115/05/28
 - [] HTB: Heist
 - [X] HTB: Networked        115/06/09
-- [X] HTB: Help             115/04/20
-- [X] HTB: Access           115/04/17
-- [X] HTB: Active           115/03/17
+- [X] HTB: [[Help]]         115/04/20
+- [X] HTB: [[Access]]       115/04/17
+- [X] HTB: [[Active]]       115/03/17
+
+
+
+dpapi 要補充(access)

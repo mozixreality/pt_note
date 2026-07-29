@@ -1,7 +1,11 @@
-# Administrator
-
-- 練習日期:   2026/06/11
-- 考點:      Active Directory 權限鏈攻擊（ACL Abuse Chain）、GenericAll 濫用、ForceChangePassword 濫用、Password Safe 資料庫破解、Targeted Kerberoast。
+---
+title: Administrator
+description: 
+tags:
+  - ACL Abuse Chain
+  - Targeted Kerberoast
+date: 2026-06-11
+---
 
 ## 攻擊路徑
 

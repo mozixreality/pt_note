@@ -1,7 +1,13 @@
-# Certified
-
-- 練習日期:     2026/07/07
-- 考點:         BloodHund、Modify Owner、Shadow Credential、Enumerate ADCS、ESC9。
+---
+title: Certified
+description: 
+tags:
+  - Modify Owner
+  - Shadow Credential
+  - Enumerate ADCS
+  - ESC9
+date: 2026-07-07
+---
 
 ## BloodHound
 

@@ -1,7 +1,12 @@
-# Titanic
-
-- 練習日期:   2026/03/13
-- 考點:       LFI、Dynamic Library Hijacking
+---
+title: Titanic
+description: 
+tags:
+    - LFI
+    - SQLite
+    - Dynamic Library Hijacking
+date: 2026-03-13
+---
 
 ## LFI
 
