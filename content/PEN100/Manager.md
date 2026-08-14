@@ -144,7 +144,7 @@ Nmap done: 1 IP address (1 host up) scanned in 98.31 seconds
 ### 掃看看有沒有子網域
 
 ```bash
-mozix@pwn$  ffuf -u http://10.129.15.109 -H "Host: FUZZ.manage.htb" -w /opt/SecLists/Discovery/DNS/subdomains-top1million-20000.txt -mc all -ac
+mozix@pwn$  ffuf -u http://10.129.15.109 -H "Host: FUZZ.manage.htb" -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -mc all -ac
 
         /'___\  /'___\           /'___\       
        /\ \__/ /\ \__/  __  __  /\ \__/       
@@ -417,7 +417,7 @@ mozix@pwn$ wget http://manager.htb/website-backup-27-07-23-old.zip
 
 解壓縮之後發現裡面有 raven 的帳號密碼
 
-```
+```bash
 mozix@pwn$ unzip website-backup-27-07-23-old.zip -d web_bak
 cat * | grep -rain pass
 ```
