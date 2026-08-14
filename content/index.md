@@ -8,9 +8,9 @@ date: 2026-07-24
 # 每日任務
 
 > [!info] 進度表
-> - **已做：31題**
-> - **未做：16題**
-> - **進度：66% (31/47題)**
+> - **已做：32題**
+> - **未做：15題**
+> - **進度：68% (32/47題)**
 
 ## OSCP Like PEN 100
 
@@ -40,7 +40,7 @@ date: 2026-07-24
 - [] HTB: Escape
 - [X] HTB: [[Soccer]]       115/04/23
 - [] HTB: Flight
-- [] HTB: UpDown
+- [X] HTB: UpDown           115/08/14
 - [X] HTB: [[Support]]      115/07/23
 - [] HTB: StreamIO
 - [X] HTB: [[Timelapse]]    115/03/19
